@@ -1,0 +1,36 @@
+{
+  "competitor": "Scoro",
+  "slug": "scoro",
+  "tagline": "Scoro is comprehensive but enterprise-weighted. AgencyFlo is built for growing agencies, not corporates.",
+  "intro": "Scoro is a comprehensive business management platform with strong coverage of project management, quoting, invoicing, and reporting. It is well-suited to larger, more established agencies. For growing agencies that want speed, simplicity, and AI — AgencyFlo is a different proposition.",
+  "agencyFloDesc": "AgencyFlo is built specifically for agencies — combining project management, resource planning, financial visibility, client management, and FloAI in a platform designed to scale with you.",
+  "competitorDesc": "Scoro is a business management platform for professional services firms. It covers quoting, project management, time tracking, invoicing, and reporting in a single platform, with pricing to match.",
+  "features": [
+    { "feature": "Project and task management", "agencyflo": true, "competitor": true },
+    { "feature": "Real-time margin per project", "agencyflo": true, "competitor": true },
+    { "feature": "Client profitability tracking", "agencyflo": true, "competitor": true },
+    { "feature": "Resource capacity planning", "agencyflo": true, "competitor": true },
+    { "feature": "Time tracking", "agencyflo": true, "competitor": true },
+    { "feature": "Agency-specific reporting", "agencyflo": true, "competitor": true },
+    { "feature": "Embedded AI assistant", "agencyflo": true, "competitor": false },
+    { "feature": "Built for agencies under 50 people", "agencyflo": true, "competitor": "Enterprise-focused" },
+    { "feature": "Simple onboarding", "agencyflo": true, "competitor": "Complex" },
+    { "feature": "No per-seat pricing", "agencyflo": true, "competitor": false }
+  ],
+  "pricing": {
+    "agencyflo": "Flat rate — no per-seat pricing. Early access pricing confirmed at launch.",
+    "competitor": "Per-seat pricing from approximately $26–71/user/month. Significant cost for growing teams."
+  },
+  "whoSuitsAgencyFlo": "Growing agencies (5–50 people) that want agency-native operations with AI, without enterprise-level complexity or enterprise pricing.",
+  "whoSuitsCompetitor": "Established agencies and professional services firms that need comprehensive business management including quoting, invoicing, and reporting — and have the budget and team to implement it properly.",
+  "faqs": [
+    {
+      "question": "Is Scoro too expensive for smaller agencies?",
+      "answer": "Scoro's per-seat pricing makes it costly for growing agencies. A 15-person team could easily pay £400–700/month before advanced features. AgencyFlo is designed to be accessible to agencies at all growth stages."
+    },
+    {
+      "question": "Does Scoro have AI features?",
+      "answer": "Scoro has some AI-assisted features, but FloAI in AgencyFlo is a fundamentally different layer — an AI assistant with full context across projects, clients, resources, and finances, capable of answering questions, flagging risks, and drafting content."
+    }
+  ]
+}

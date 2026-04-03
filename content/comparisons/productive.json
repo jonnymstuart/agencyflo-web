@@ -1,0 +1,36 @@
+{
+  "competitor": "Productive",
+  "slug": "productive",
+  "tagline": "Productive is a solid agency tool. AgencyFlo brings the AI layer it doesn't have.",
+  "intro": "Productive is one of the more agency-focused platforms available — it understands utilisation, profitability, and project budgets better than most general tools. The gap is AI. AgencyFlo is built for the same audience but with FloAI embedded across the entire platform.",
+  "agencyFloDesc": "AgencyFlo is built specifically for agencies — combining project management, resource planning, financial visibility, client management, and FloAI in a single AI-native platform.",
+  "competitorDesc": "Productive is an agency management platform with solid project management, resource planning, and financial features. It is a strong competitor to AgencyFlo in the agency-specific space.",
+  "features": [
+    { "feature": "Project and task management", "agencyflo": true, "competitor": true },
+    { "feature": "Real-time margin per project", "agencyflo": true, "competitor": true },
+    { "feature": "Client profitability tracking", "agencyflo": true, "competitor": true },
+    { "feature": "Resource capacity planning", "agencyflo": true, "competitor": true },
+    { "feature": "Time tracking", "agencyflo": true, "competitor": true },
+    { "feature": "Agency-specific reporting", "agencyflo": true, "competitor": true },
+    { "feature": "Embedded AI assistant with full agency context", "agencyflo": true, "competitor": false },
+    { "feature": "Proactive AI risk alerts", "agencyflo": true, "competitor": false },
+    { "feature": "Auto-drafted client updates via AI", "agencyflo": true, "competitor": false },
+    { "feature": "Financial forecasting", "agencyflo": true, "competitor": true }
+  ],
+  "pricing": {
+    "agencyflo": "Flat rate — no per-seat pricing. Early access pricing confirmed at launch.",
+    "competitor": "Per-seat pricing from approximately $9–29/user/month depending on features."
+  },
+  "whoSuitsAgencyFlo": "Agencies that want agency-native operations with a genuine AI layer — FloAI that understands context across projects, clients, team, and finances.",
+  "whoSuitsCompetitor": "Agencies that need strong agency management features now and are comfortable with a more traditional SaaS product without AI integration.",
+  "faqs": [
+    {
+      "question": "How is AgencyFlo different from Productive?",
+      "answer": "Both platforms are built for agencies and cover similar ground — project management, resource planning, financial visibility. The key difference is FloAI: AgencyFlo has an AI assistant embedded with full agency context. Productive has traditional reporting; AgencyFlo surfaces insights and flags risks automatically."
+    },
+    {
+      "question": "Is Productive worth considering over AgencyFlo?",
+      "answer": "Productive is a mature product. If you need a proven, established tool right now, it's a reasonable choice. If AI-native workflows are a priority for your agency's growth, AgencyFlo is built with that as the core premise."
+    }
+  ]
+}

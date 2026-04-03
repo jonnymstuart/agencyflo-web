@@ -1,0 +1,40 @@
+{
+  "competitor": "ClickUp",
+  "slug": "clickup",
+  "tagline": "ClickUp is a powerful project management tool. It was not built for agency economics.",
+  "intro": "ClickUp is one of the most feature-rich project management tools available. For agencies, it delivers real value in the right context — and hits a structural ceiling in others. This comparison covers both, honestly.",
+  "agencyFloDesc": "AgencyFlo is built specifically for agencies — combining project management, resource planning, financial visibility, client management, and FloAI in a single platform designed around agency workflows.",
+  "competitorDesc": "ClickUp is a general-purpose project and task management platform used by teams across industries. It is highly configurable but requires significant setup to work for agency contexts.",
+  "features": [
+    { "feature": "Project and task management", "agencyflo": true, "competitor": true },
+    { "feature": "Real-time margin per project", "agencyflo": true, "competitor": false },
+    { "feature": "Client profitability tracking", "agencyflo": true, "competitor": false },
+    { "feature": "Resource capacity planning", "agencyflo": true, "competitor": "Limited" },
+    { "feature": "Time tracking", "agencyflo": true, "competitor": true },
+    { "feature": "Agency-specific reporting", "agencyflo": true, "competitor": false },
+    { "feature": "Embedded AI assistant", "agencyflo": true, "competitor": "Basic" },
+    { "feature": "Scope change tracking", "agencyflo": true, "competitor": false },
+    { "feature": "Client management", "agencyflo": true, "competitor": "Limited" },
+    { "feature": "Financial forecasting", "agencyflo": true, "competitor": false }
+  ],
+  "pricing": {
+    "agencyflo": "Flat rate — no per-seat pricing. Early access pricing confirmed at launch.",
+    "competitor": "Per-seat pricing from $7/user/month. Advanced features require higher tiers."
+  },
+  "whoSuitsAgencyFlo": "Agencies that need real-time financial visibility, resource planning, and client profitability — without building custom dashboards in a general-purpose tool.",
+  "whoSuitsCompetitor": "Teams that need deep task customisation and are willing to configure the platform heavily. Works well for agencies that have a dedicated operations person to maintain it.",
+  "faqs": [
+    {
+      "question": "Can ClickUp track project margin?",
+      "answer": "Not natively. You can track time and budget separately, but real-time margin per project requires custom fields, formulas, and significant configuration — or a separate spreadsheet."
+    },
+    {
+      "question": "Is AgencyFlo harder to set up than ClickUp?",
+      "answer": "AgencyFlo is designed for agencies out of the box, so setup is faster. ClickUp requires considerable configuration to adapt its general-purpose structure to agency workflows."
+    },
+    {
+      "question": "Does ClickUp have an AI assistant?",
+      "answer": "ClickUp has added some AI features, but they operate on task data rather than across the full agency — projects, clients, finances, and resources together. FloAI in AgencyFlo has full agency context."
+    }
+  ]
+}

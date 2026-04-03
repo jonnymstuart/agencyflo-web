@@ -1,0 +1,40 @@
+{
+  "competitor": "Notion",
+  "slug": "notion",
+  "tagline": "Notion is a brilliant knowledge tool. Running an agency on it is a different matter.",
+  "intro": "Notion is genuinely excellent for documentation, wikis, and lightweight project tracking. Many agencies use it. Few find it scales well into a full operating system — particularly when financial visibility and resource planning become critical.",
+  "agencyFloDesc": "AgencyFlo is built specifically for agencies — combining project management, resource planning, financial visibility, client management, and FloAI in a single platform designed around agency workflows.",
+  "competitorDesc": "Notion is a flexible workspace combining notes, databases, and project views. It's popular for documentation and can be extended for project management, but requires heavy customisation for agency use.",
+  "features": [
+    { "feature": "Project and task management", "agencyflo": true, "competitor": "With setup" },
+    { "feature": "Real-time margin per project", "agencyflo": true, "competitor": false },
+    { "feature": "Client profitability tracking", "agencyflo": true, "competitor": false },
+    { "feature": "Resource capacity planning", "agencyflo": true, "competitor": false },
+    { "feature": "Time tracking", "agencyflo": true, "competitor": false },
+    { "feature": "Agency-specific reporting", "agencyflo": true, "competitor": false },
+    { "feature": "Embedded AI assistant", "agencyflo": true, "competitor": "Basic" },
+    { "feature": "Scope change tracking", "agencyflo": true, "competitor": false },
+    { "feature": "Client management", "agencyflo": true, "competitor": "With setup" },
+    { "feature": "Financial forecasting", "agencyflo": true, "competitor": false }
+  ],
+  "pricing": {
+    "agencyflo": "Flat rate — no per-seat pricing. Early access pricing confirmed at launch.",
+    "competitor": "Per-seat from $10/user/month. Business plan required for advanced features."
+  },
+  "whoSuitsAgencyFlo": "Agencies that need a connected operating system — where project delivery, resource planning, and financial performance are visible in one place, in real time.",
+  "whoSuitsCompetitor": "Agencies that primarily need documentation, SOPs, and lightweight project tracking — and are comfortable building custom databases for any operational need.",
+  "faqs": [
+    {
+      "question": "Can you run an agency on Notion?",
+      "answer": "You can manage projects and documentation in Notion. However, financial visibility, time tracking, resource planning, and profitability reporting typically require additional tools or complex database configurations that are difficult to maintain at scale."
+    },
+    {
+      "question": "What does Notion lack for agencies?",
+      "answer": "Native time tracking, margin tracking, resource capacity planning, and client profitability reporting are all missing by default. These are all available in AgencyFlo without configuration."
+    },
+    {
+      "question": "Is AgencyFlo a replacement for Notion?",
+      "answer": "AgencyFlo replaces the operational layer of Notion — project tracking, resource planning, client management, and financial visibility. Some teams continue to use Notion for documentation alongside AgencyFlo."
+    }
+  ]
+}

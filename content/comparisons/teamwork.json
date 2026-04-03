@@ -1,0 +1,40 @@
+{
+  "competitor": "Teamwork",
+  "slug": "teamwork",
+  "tagline": "Teamwork is built for agencies. AgencyFlo is built for the AI era of agencies.",
+  "intro": "Teamwork is one of the few project management tools built specifically for agencies and client-facing teams. It covers project delivery, client portals, and billing well. The gap is the AI layer and financial depth that growing agencies increasingly need.",
+  "agencyFloDesc": "AgencyFlo is built specifically for agencies — combining project management, resource planning, financial visibility, client management, and FloAI in a single AI-native platform.",
+  "competitorDesc": "Teamwork is a project management platform designed for client-facing agencies. It includes project management, client portals, time tracking, and billing features.",
+  "features": [
+    { "feature": "Project and task management", "agencyflo": true, "competitor": true },
+    { "feature": "Real-time margin per project", "agencyflo": true, "competitor": "Limited" },
+    { "feature": "Client profitability tracking", "agencyflo": true, "competitor": "Limited" },
+    { "feature": "Resource capacity planning", "agencyflo": true, "competitor": true },
+    { "feature": "Time tracking", "agencyflo": true, "competitor": true },
+    { "feature": "Agency-specific reporting", "agencyflo": true, "competitor": true },
+    { "feature": "Embedded AI assistant with agency context", "agencyflo": true, "competitor": false },
+    { "feature": "Proactive AI risk alerts", "agencyflo": true, "competitor": false },
+    { "feature": "Client portal", "agencyflo": "Roadmap", "competitor": true },
+    { "feature": "No per-seat pricing", "agencyflo": true, "competitor": false }
+  ],
+  "pricing": {
+    "agencyflo": "Flat rate — no per-seat pricing. Early access pricing confirmed at launch.",
+    "competitor": "Per-seat pricing from approximately $10–19/user/month. Delivery and Scale plans for full features."
+  },
+  "whoSuitsAgencyFlo": "Agencies that want AI-native operations — where FloAI actively helps manage delivery, surface risks, and answer financial questions in real time.",
+  "whoSuitsCompetitor": "Agencies that primarily need strong project delivery and client management, and value the client portal feature for sharing project progress externally.",
+  "faqs": [
+    {
+      "question": "Does Teamwork have financial visibility?",
+      "answer": "Teamwork tracks time and billing, but real-time margin per project and client profitability analysis are limited compared to AgencyFlo's financial visibility module."
+    },
+    {
+      "question": "Does AgencyFlo have a client portal?",
+      "answer": "Client portal functionality is on the AgencyFlo roadmap. Currently, AgencyFlo focuses on the internal operating system — project delivery, resource planning, financial visibility, and FloAI."
+    },
+    {
+      "question": "Is Teamwork a good choice for agencies?",
+      "answer": "Teamwork is a solid agency-focused tool. If client portals are a priority and AI is not, it's a reasonable choice. AgencyFlo is the better fit for agencies where AI-native operations and real-time financial visibility are priorities."
+    }
+  ]
+}
