@@ -1,19 +1,27 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono } from "next/font/google";
+import localFont from "next/font/local";
 import "./globals.css";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 import SchemaOrg from "@/components/SchemaOrg";
 import { organizationSchema } from "@/lib/schema";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
-  subsets: ["latin"],
+const eiko = localFont({
+  src: [
+    { path: "../public/fonts/PPEiko-Medium.otf", weight: "500", style: "normal" },
+    { path: "../public/fonts/PPEiko-Heavy.otf", weight: "800", style: "normal" },
+    { path: "../public/fonts/PPEiko-BlackItalic.otf", weight: "900", style: "italic" },
+  ],
+  variable: "--font-eiko",
+  display: "swap",
 });
 
-const geistMono = Geist_Mono({
-  variable: "--font-geist-mono",
-  subsets: ["latin"],
+const diatype = localFont({
+  src: [
+    { path: "../public/fonts/ABCDiatypeVariable-Trial.woff2", weight: "100 900", style: "normal" },
+  ],
+  variable: "--font-diatype",
+  display: "swap",
 });
 
 export const metadata: Metadata = {
@@ -44,7 +52,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${geistSans.variable} ${geistMono.variable}`}>
+    <html lang="en" className={`${eiko.variable} ${diatype.variable}`}>
       <head>
         <SchemaOrg data={organizationSchema()} />
       </head>
